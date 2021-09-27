@@ -10,7 +10,7 @@ exl-id: edebbd23-ae00-418d-83f5-30f18fed8981
 # Summary & benefits
 
 Congratulations and thank you for investing your time in learning about Adobe Experience Platform! 
-In this module, you've learned how to create schemas, mixins and dataset. You've learned how to ingest data in a streaming way by using Launch and how to ingest it by importing CSV files into Adobe Experience Platform and mapping CSV columns against XDM schemas. 
+In this module, you've learned how to create schemas, field groups and dataset. You've learned how to ingest data in a streaming way by using Launch and how to ingest it by importing CSV files into Adobe Experience Platform and mapping CSV columns against XDM schemas. 
 
 ## Benefits
 
